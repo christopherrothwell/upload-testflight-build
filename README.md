@@ -15,3 +15,4 @@
 ## Additional Arguments
 
 See [action.yml](action.yml) for more details.
+
